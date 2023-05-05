@@ -1,0 +1,17 @@
+.form-select {
+  background-color: rgba(70, 87, 203, 1) !important;
+  border: none;
+  border-radius: 0px;
+  color: #ffffff;
+  font-size: 1.1rem;
+}
+.form-select option {
+  background-color: #ffffff !important;
+  color: black;
+  font-size: 1rem;
+}
+.btn-border {
+  border: none;
+  border-radius: 0px;
+  font-size: 1.2rem;
+}

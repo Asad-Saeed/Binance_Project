@@ -1,0 +1,46 @@
+.card_responsive {
+  width: 23rem !important;
+}
+@media only screen and (max-width: 600px) {
+  .card_responsive {
+    width: 18rem !important;
+  }
+}
+.background_image {
+  background-image: url("../Assets/backlist.jpeg");
+  height: 100vh !important;
+
+  z-index: 6666 !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex !important;
+}
+.form-control {
+  border: none;
+}
+
+.hr_color {
+  color: rgba(150, 160, 227, 1) !important;
+  border: 1px solid rgba(150, 160, 227, 1);
+}
+.input-group-icon {
+  border: 1px solid rgba(150, 160, 227, 1) !important;
+  border-radius: 100%;
+  padding: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* padding-block: 5px; */
+  color: rgba(150, 160, 227, 1) !important;
+}
+.btn_same {
+  background-color: rgba(70, 87, 203, 1);
+}
+.color-text {
+  color: rgba(70, 87, 203, 1);
+}
+
+.PhoneInputInput {
+  border: none;
+}

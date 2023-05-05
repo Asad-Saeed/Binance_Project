@@ -1,0 +1,25 @@
+.card_responsive {
+  width: 23rem !important;
+  border-radius: 15px;
+}
+@media only screen and (max-width: 600px) {
+  .card_responsive {
+    width: 18rem !important;
+  }
+}
+.verfy-color {
+  background-color: rgba(180, 180, 180, 0.38) !important;
+}
+.text_size {
+  font-size: 14px;
+  font-weight: 600 !important;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.hr_color {
+  color: rgba(150, 160, 227, 1) !important;
+  border: 1px solid rgba(150, 160, 227, 1);
+}

@@ -1,0 +1,16 @@
+.Whale_DW_table {
+  background-color: #131722;
+}
+.heading {
+  font-weight: 800;
+}
+img {
+  background-color: white;
+  border-radius: 500px;
+  height: 40px;
+  width: 40pxs;
+}
+small {
+  font-size: 12px;
+  color: rgba(181, 181, 181, 0.57);
+}

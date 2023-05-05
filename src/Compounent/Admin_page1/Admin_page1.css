@@ -1,0 +1,14 @@
+.incrasing_btn{
+    height: 30px !important;
+    background: #1DA2B4 !important;
+    color: white !important;
+    font-weight: 800 !important;
+    padding: 0px !important;
+}
+.btn_danger{
+    width: 70px;
+    height: 30px;
+    font-size: 14px;
+    
+    background: rgba(232, 0, 7, 0.46);
+}

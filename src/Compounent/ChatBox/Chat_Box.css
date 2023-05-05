@@ -1,0 +1,51 @@
+.chatbox {
+  height: 830px;
+}
+
+.sc-dcrmVg .kxzlIN,
+.sc-duSInm,
+.kxzlIN,
+.rsc-header {
+  /* background-color: rgba(29, 162, 180, 1); */
+  /* background-color: #131d28; */
+  background-color: #4657cb !important;
+}
+
+/* .bkDxIk .iCOdFz {
+  background: rgba(29, 162, 180, 1);
+} */
+.rsc-ts-bot .rsc-ts-bubble,
+.rsc-os-options li .rsc-os-option-element {
+  background: #232a5c;
+}
+.ekzgpU,
+.sc-dcrmVg,
+.ekzgpU,
+.rsc-container {
+  height: auto !important;
+  width: 30vw !important;
+  border-radius: 5px !important;
+  background-color: #131d28 !important;
+}
+.rsc-header-title {
+  font-size: 30px;
+  font-weight: 800;
+}
+.iVqngO {
+  background: #131722 !important;
+  margin-top: 0px !important;
+  padding-top: 20px !important;
+}
+
+@media only screen and (max-width: 800px) {
+  .chatbox {
+    height: 80vh;
+    width: auto;
+  }
+  .sc-dcrmVg,
+  .ekzgpU,
+  .rsc-container {
+    height: auto !important;
+    width: auto !important;
+  }
+}

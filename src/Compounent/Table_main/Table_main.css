@@ -1,0 +1,25 @@
+.thead {
+  background-color: rgba(35, 42, 92, 1) !important;
+}
+.background {
+  height: 100vh;
+
+}
+.backgroundcolor {
+  background-color: rgba(19, 23, 34, 1);
+}
+.td_style {
+  background-color: rgba(0, 135, 22, 0.67) !important;
+  border-radius: 50px;
+  padding-left: 3px;
+  padding-block: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.dollar_icon {
+  background-color: rgba(0, 135, 22, 0.67);
+  color: rgba(255, 255, 255, 0.726);
+  border-radius: 50%;
+  margin-left: 10px;
+}
